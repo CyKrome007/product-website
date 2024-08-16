@@ -16,6 +16,7 @@ A Product Website - Demonstration of React RouterDOM
 
 ## Used Tools
 - [RouterDOM](https://reactrouter.com/en/main)
+- [useLoaderData](https://reactrouter.com/en/main/start/overview#client-side-routing) - Hook
 - [Fontawesome](https://fontawesome.com/) - Icons
 - [TaiwindCSS](https://tailwindcss.com/)
 ## Authors
