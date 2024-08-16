@@ -5,8 +5,12 @@ A Product Website - Demonstration of React RouterDOM
 ## Features
 
 - Header and Footer
+- Routing
+- Github Data Fetch
 
-
+## API Reference
+- [Github API](https://api.github.com)
+- Github API Endpoint - https://api.github.com/users/CyKrome007
 
 ## Languages
 - HTML
